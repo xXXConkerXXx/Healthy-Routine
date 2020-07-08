@@ -14,11 +14,11 @@
 
 ## Media to avoid
 
-- Negative Content
-- Bright Lights,
-- Loud Noises,
+- Negative Content,
 - Blood and Gore,
 - Horror Movies,
+- Bright Lights,
+- Loud Noises,
 - Drama,
 - News
 
