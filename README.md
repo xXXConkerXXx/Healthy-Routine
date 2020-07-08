@@ -11,8 +11,8 @@
 - Limit your time on the computer(1 - 5 hours),
 - Chamomile tea(to calm your thoughts)
 - Lights off(2 - 4 hours before bed)
+- Calming sounds(Music or Nature),
 - Nightly Meditate(10 minutes),
-- Calming sounds(Music/Nature),
 - Bed time(8 - 11 pm)
 
 ## Media to avoid
