@@ -1,7 +1,7 @@
 # Healthy-Routine
 ## Daily Routine
 
-- Wake up around 6 - 10 am,
+- Wake up(6 - 10 am),
 - Take a shower(Helps wake you up),
 - Brush teeth(Freshin your taste with mint),
 - Eat breakfast, lunch, or Dinner(Optional best to eat 2-3 times a day),
