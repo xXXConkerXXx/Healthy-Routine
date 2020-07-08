@@ -3,7 +3,7 @@
 
 - Wake up around 6 - 10 am,
 - Take a shower(Helps wake you up),
-- Brish teeth(Freshin your taste with mint),
+- Brush teeth(Freshin your taste with mint),
 - Eat breakfast, lunch, or Dinner(Optional best to eat 2-3 times a day),
 - Go for a walk outside(10 minutes - 1 hour),
 - Limit your time on the computer(1 - 5 hours),
