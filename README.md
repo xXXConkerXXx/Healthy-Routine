@@ -33,6 +33,7 @@
 ## Recommended food
 
 - Water(Drink 2-3 bottles of water a day),
+- Home Cooked Meal(is a best cooked meal),
 - Vegitables,
 - Green Tea,
 - Fruits
