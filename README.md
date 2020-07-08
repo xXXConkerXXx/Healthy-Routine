@@ -24,15 +24,15 @@
 
 ## Food to avoid
 
-- Meat(if you can't at least mix it with healthy foods),
 - Dairy Prducts(if you can't at least mix it with healthy foods),
+- Meat(if you can't at least mix it with healthy foods),
 - Bad Products(Recommended to avoid),
 - Junk Food(Recommended to avoid),
 - Soda(Recommended to avoid)
 
 ## Recommended food
 
-- Green Tea,
 - Water(Drink 2-3 bottles of water a day),
 - Vegitables,
+- Green Tea,
 - Fruits
