@@ -28,6 +28,7 @@
 - Meat(if you can't at least mix it with healthy foods),
 - Bad Products(Recommended to avoid),
 - Junk Food(Recommended to avoid),
+- Fast Food(Recommende to avoid),
 - Soda(Recommended to avoid)
 
 ## Recommended food
