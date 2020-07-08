@@ -17,6 +17,7 @@
 - Bright Lights,
 - Loud Noises,
 - Blood and Gore,
+- Horror Movies,
 - Drama,
 - News
 
