@@ -9,7 +9,7 @@
 - Keep your environment clean(It doesn't hurt to keep things clean),
 - Go for a walk outside get some sun(10 minutes - 1 hour),
 - Limit your time on the computer(1 - 5 hours),
-- Chamomile tea(to calm your thoughts),
+- Chamomile Tea(to calm your thoughts),
 - Lights off(2 - 4 hours before bed),
 - Calming sounds(Music or Nature),
 - Nightly Meditate(10 minutes),
