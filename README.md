@@ -26,6 +26,7 @@
 
 - Dairy Prducts(if you can't at least mix it with healthy foods),
 - Meat(if you can't at least mix it with healthy foods),
+- Microwavable Food(MOST Recommended to avoid),
 - Bad Products(Recommended to avoid),
 - Junk Food(Recommended to avoid),
 - Fast Food(Recommende to avoid),
