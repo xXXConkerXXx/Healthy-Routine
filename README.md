@@ -6,6 +6,7 @@
 - Brush teeth(Freshin your taste with mint),
 - Eat breakfast, lunch, or dinner(Optional best to eat 2-3 times a day),
 - Go for a walk outside(10 minutes - 1 hour),
+- Keep your environment clean(It doesn't hurt to keep things clean).
 - Limit your time on the computer(1 - 5 hours),
 - Chamomile tea(to calm your thoughts)
 - Lights off(2 - 4 hours before bed)
