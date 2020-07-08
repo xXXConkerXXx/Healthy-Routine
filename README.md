@@ -12,6 +12,7 @@
 - Chamomile tea(to calm your thoughts)
 - Lights off(2 - 4 hours before bed)
 - Nightly Meditate(10 minutes),
+- Calming Music/Nature sounds,
 - Bed time(8 - 11 pm)
 
 ## Media to avoid
