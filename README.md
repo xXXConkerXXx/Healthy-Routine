@@ -5,7 +5,7 @@
 - Morning Meditate(10 minutes),
 - Take a shower(Helps wake you up),
 - Brush teeth(Freshin your taste with mint),
-- Eat breakfast, lunch, or dinner(Optional best to eat 2-3 times a day),
+- Eat breakfast, lunch, and or dinner(Optional best to eat 2-3 times a day),
 - Keep your environment clean(It doesn't hurt to keep things clean),
 - Go for a walk outside get some sun(10 minutes - 1 hour),
 - Limit your time on the computer(1 - 5 hours),
